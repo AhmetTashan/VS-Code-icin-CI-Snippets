@@ -8,16 +8,16 @@ Bunun için https://snippet-generator.app/ adresinden biraz destek aldığım s�
 
 | Prefix           | Açıklama                     |
 | ---------------- | ---------------------------- |
-| ci_base          | base_url                     |
+| ci_base          |                              |
 | ciline           | Yorum Satırı                 |
-| ci_start         | Başlangıç class              |
+| ci_start         |                              |
 | **controller**   | **Controller Sayfası**       |
-| _cookie          | CI - Cookie                  |
+| _cookie          |                              |
 | **crud**         | **Örnek dört temel işlem**   |
-| db_affected      | CI - db etkilenen satır      |
-| db_delete        | CI - db kayıt silme          |
-| db_from          | CI - db tablo adı            |
-| db_get           | CI - db get()                |
+| db_affected      |                              |
+| db_delete        |                              |
+| db_from          |                              |
+| db_get           |                              |
 | db_group         |                              |
 | db_insert        |                              |
 | db_insert_id     |                              |
@@ -72,6 +72,7 @@ Bunun için https://snippet-generator.app/ adresinden biraz destek aldığım s�
 C:\Kullanıcılar\{kullanici_adi}\\.vscode\extensions\anish-m.ci-snippets2-1.0.0\snippets
 
 içerisindeki **snippets.json** dosyasını değiştirilmesi yeterli olacaktır.
+
 
 
 DİPNOT: `Tab` ayarı için  **Editor: Insert Spaces** ayarını `false` yap
