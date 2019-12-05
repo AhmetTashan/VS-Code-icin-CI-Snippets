@@ -39,7 +39,7 @@
 		"body": [
 			"defined('BASEPATH') OR exit('No direct script access allowed');",
 			"/*",
-			" * @project   Musteri Takip of Ahmet",
+			" * @project   Proje Adı",
 			" * @author  Ahmet Taşhan",
 			" * @link  http://www.ahmettashan.com/",
 			" * @since  Version 2.0.0",
@@ -71,7 +71,7 @@
 		"body": [
 			"defined('BASEPATH') OR exit('No direct script access allowed');",
 			"/*",
-			" * @project   Musteri Takip of Ahmet",
+			" * @project   Proje Adı",
 			" * @author  Ahmet Taşhan",
 			" * @link  http://www.ahmettashan.com/",
 			" * @since  Version 2.0.0",
@@ -323,7 +323,7 @@
 		"body": [
 			"defined('BASEPATH') OR exit('No direct script access allowed');",
 			"/*",
-			" * @project   Musteri Takip of Ahmet",
+			" * @project   Proje Adı",
 			" * @author  Ahmet Taşhan",
 			" * @link  http://www.ahmettashan.com/",
 			" * @since  Version 2.0.0",
