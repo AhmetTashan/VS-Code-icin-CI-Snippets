@@ -1,6 +1,6 @@
 ## VS Code için CodeIgniter 3 Snippets
 
-Bu repo içerisinde  **ci-snippets2** ekletisini kendi kullandığım şekle büründürdüm. Sizde kullanmak isterseniz, VS Code'da **ci-snippets2** uygulamasını kurup kendinize göre ayarlaya bilirsiniz.
+Bu repo içerisinde  **ci-snippets2** ekletisini kendi kullandığım şekle büründürdüm. Sizde kullanmak isterseniz, VS Code'da **ci-snippets2** uygulamasını kurup **snippets** [dosyasını değiştirmeniz](#dosya-değiştirme) yeterli olacaktır.
 
 Bunun için https://snippet-generator.app/ adresinden biraz destek aldığım söylenebilir.
 
@@ -72,7 +72,6 @@ Bunun için https://snippet-generator.app/ adresinden biraz destek aldığım s�
 C:\Kullanıcılar\{kullanici_adi}\\.vscode\extensions\anish-m.ci-snippets2-1.0.0\snippets
 
 içerisindeki **snippets.json** dosyasını değiştirilmesi yeterli olacaktır.
-
 
 
 DİPNOT: `Tab` ayarı için  **Editor: Insert Spaces** ayarını `false` yap
